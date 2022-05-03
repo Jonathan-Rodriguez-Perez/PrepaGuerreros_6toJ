@@ -17,7 +17,7 @@ class _PaginaPrincipalState extends State<PaginaPrincipal> {
     "assets/images/logo7.jpg",
     "assets/images/logo8.jpg",
     "assets/images/logo8.jpg",
-    "assets/images/logo1.jpg",
+    "assets/images/logo2.jpg",
   ];
   @override
   Widget build(BuildContext context) {
