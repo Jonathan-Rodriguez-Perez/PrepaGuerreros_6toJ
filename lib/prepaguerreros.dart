@@ -23,7 +23,7 @@ class _PaginaPrincipalState extends State<PaginaPrincipal> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Preparatorias Guerreros"),
+          title: Text("Preparatorias Guerreros v2"),
         ),
         body: GridView.custom(
           gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
